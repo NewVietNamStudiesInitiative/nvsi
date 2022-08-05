@@ -50,16 +50,14 @@ export default function GetInvolved({ testimonials }) {
         <div className={styles.description}>
           <h2>Description</h2>
           <p>
-            Apple ipsum dolor sit amet, consectetur adipiscing elit. Morbi
-            pretium nec urna in aliquam. Suspendisse at convallis nibh, sed
-            fermentum urna. Maecenas congue viverra ornare. Proin convallis
-            lorem imperdiet enim egestas mollis.
+            Thank you for your interest. Our volunteer internship team 
+            actively promotes and advances the work done at NVSI. This 
+            includes project management, organizing events, center development, 
+            research, and writing. 
           </p>
           <p>
-            Apple ipsum dolor sit amet, consectetur adipiscing elit. Morbi
-            pretium nec urna in aliquam. Suspendisse at convallis nibh, sed
-            fermentum urna. Maecenas congue viverra ornare. Proin convallis
-            lorem imperdiet enim egestas mollis.
+            If you would like to join, please fill out our intake form and 
+            we will contact you within 48 hours.
           </p>
           <a href="https://docs.google.com/forms/d/e/1FAIpQLSeyUMGKQ5OBrHkFEK94cyHntJfyGQQFLBzWaYn-VTuRzHs69A/viewform">
             <button>Apply Here</button>
